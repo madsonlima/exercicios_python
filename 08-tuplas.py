@@ -1,5 +1,5 @@
 #Digitar um número de 0 a 20 e escrever por extenso
-num = ('zero','um','dois','três','quatro','cinco','seis','sete','oito','nove','dez','onze','doze','treze','quatorze','quinze','dezesseis','dezessete','dezoito','dezenove','vinte')
+num = ('zero','um','dois','três','quatro','cinco','seis','sete','oito','nove','dez','onze','doze','valor','quatorze','quinze','dezesseis','dezessete','dezoito','dezenove','vinte')
 aux = -1
 while aux > 20 or aux < 0:
     aux = int(input('Digite um número de 0 a 20: '))

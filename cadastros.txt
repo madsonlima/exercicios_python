@@ -1,0 +1,7 @@
+pessoa1;20
+pessoa2;25
+pessoa3;21
+pessoa4;23
+madson;23
+asdasd;1234
+mar;34
